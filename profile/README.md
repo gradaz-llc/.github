@@ -19,7 +19,7 @@ With us, you get:
 <h3 align="left">Connect with us:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/company/grada-team" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Grada on LinkedIn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/company/gradaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Grada on LinkedIn" height="30" width="40" /></a>
 </p>
 
 <!--
